@@ -1,24 +1,18 @@
-# README
+# ruby-on-rails-learning-from-php
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## AIの使用について
 
-Things you may want to cover:
+このプロジェクトはほぼ全てのコードがClaude Codeによって記述されました。  
+バイブコーディングであるため、matsuyuki1231はコードの全容を把握していません。  
 
-* Ruby version
+## 本プロジェクトについて
 
-* System dependencies
+phpの言語使用を知る者がRubyとRuby on railsを学ぶためのプロジェクトです。  
+Claude Codeにプロンプトを投げて作成しました。  
 
-* Configuration
+phpに対する理解を前提としています。  
+claude codeと対話できる環境にあればスムーズに学習できると思われますが、なくてもたぶんできると思います。  
+学習方法は ./tutorial/README.md をご覧ください。  
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+このプロジェクトは私自身がRuby on railsを学ぶために作成しました。  
+公開している主目的も、私が外部端末から教材を閲覧できるようにするためです。  
